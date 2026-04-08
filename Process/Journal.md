@@ -161,6 +161,23 @@ I think the next steps is to build on the soundtrack aspect and test again in th
 
 Moving forward.
 
+## 04.07.26
+
+Whelp! It's the new year! 
+
+Last weekend I was in the city for Easter and was able to finally do the walk again. The good news is that geolocation was working perfectly. Also it's much more pleasant to do these walks when it's nice out. And speaking of, the walk got accepted to be in the program for this year's [Jane's Walk](https://www.mas.org/events/janes-walk-nyc/) which is a great incentive to get it in an even better state. With that in mind, I had some thoughts/ideas during my tests this weekend:
+
+- It's probably good to widen the range of the background music. The geolocating isn't _perfect_ and this will help to keep the music still going on the edges.
+- Likewise, the music (and probably all sounds) could stand to use a long fade-in / fade-out. Sometimes the transitions are too abrupt, especially when you are on a seam between two echoes.
+- The rumbly synth drone thing is too loud.
+- As mentioned in the previous post, I think it's a good idea to have the music follow an arc, becoming more complicated as the listener engages with the material. We can add tracks and then take them away to create a nice cycle.
+- Recorded a few minutes of sitting on the side by the fountain. Would be nice to have done this during a weekday lunch, but Easter! This also reminded me of the hours I spent sitting on the side there, either waiting for L or doing the DT space observations. Might add that personal narrative in.
+- Would be nice to add a bit of audio from [the Social Life of Small Urban Spaces](https://www.youtube.com/watch?v=5QkJkT3M-Us), but it's probably not in Creative Commons? Need to research if/how I'm aloud to use this.
+- The levels overall need a little finessing
+- For the Jane's Walk, I should have an explanation page for why the sounds are there. I want to keep a level of abstraction, but hopefully this is a happy medium. I think it will take a lot of work to make this really nice, so I should make sure I'm devoting a good chunk of time to this. 
+
+All in all, I really like the walk. It's abstract, but sonically interesting. Glad that it should be getting some actual listeners!
+
 ## Notes
 
 [^1]: Should eventually move this to its own PB approved WHY document, but for now this feels like a good place to start the WHY juices/conversation flowing)
