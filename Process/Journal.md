@@ -178,6 +178,23 @@ Last weekend I was in the city for Easter and was able to finally do the walk ag
 
 All in all, I really like the walk. It's abstract, but sonically interesting. Glad that it should be getting some actual listeners!
 
+## 04.20.26
+
+Initially I had planned to build out the score in the same way I would for my other alt-ctrl digital experiences: export the stems as individual layers and then build them up in the software. _Then_ I realized that since this whole progression would be linear instead of spatial, that I could just record the score as one long track. What luxury! 
+
+SO!
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1638385034/size=large/bgcol=ffffff/linkcol=f171a2/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://mouseandthebillionaire.bandcamp.com/album/1307">1307 by Mouse &amp; the Billionaire</a></iframe>
+
+The last week was spent almost entirely in writing and recording the music for this. I'm happy with how it turned out. There are a few distinct movements, but the whole thing has a bit of an arc to it, starting and ending with the same musical bits so it will feel like things are being added and then later removed. BUT, by recording it as one long track I was able to make it more musically engaging/successful, I think. It's definitely a slow burn ("Oh wow you do really make us wait for it" - DR), but I think that adds to the contemplative aspects. The whole project almost ends up feeling like a spatial album. An album written and recorded specifically to be heard in a given location, which feels like it nicely combines aspects of soundwalking with contemplative architecture.
+
+### Next:
+- Listen through the entire thing in-app to fine-tune levels (specifically looking at whether the upbeat section is too loud)
+- Is the chimey/wurly section too long?
+- Add in the field recordings I did this year
+- Potentially add in a section with my personal story
+- Edit the City Spaces, Human Places audio down to just the pertinent Seagram content
+
 ## Notes
 
 [^1]: Should eventually move this to its own PB approved WHY document, but for now this feels like a good place to start the WHY juices/conversation flowing)
