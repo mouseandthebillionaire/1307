@@ -195,6 +195,12 @@ The last week was spent almost entirely in writing and recording the music for t
 - Potentially add in a section with my personal story
 - Edit the City Spaces, Human Places audio down to just the pertinent Seagram content
 
+## 04.29.26
+
+Haven't touched the music side much, but have added some other interesting narrative audio elements. Mixed down the City Spaces, Human Places audio like I wanted and added that. I might want to edit it down even further. The beginning is somewhat too abrupt and not-interesting as audio-only maybe? Though it brings the attention to the moving sun which could work well. The other additions are a 1955 documentary about the building of the Seagram building, movie-dialogue filmed in a specific spot, and a soundscape that I pieced together to give the feeling of a tenement street. I'm fond of it: [Tenement Audio](Media/tenements.wav). I'd like to also have some sort of sounds that reflect the apartment building that was once there ([The Montana Apartments](http://www.beyondthegildedage.com/2012/02/montana-apartments.html)), but I'm not sure how that will sound any different than the tenement audio. Less kids, that's for sure, but other than that? I feel like the front of an apartment building sounds much like the front of an office building?
+
+One note as we're getting closer to launch day: it seems that Echoes may be having issues with it's google storage. None of the api links are working for the sounds I had uploaded earlier. Not the end of the world, I just may need to re-upload all of those.
+
 ## Notes
 
 [^1]: Should eventually move this to its own PB approved WHY document, but for now this feels like a good place to start the WHY juices/conversation flowing)
