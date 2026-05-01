@@ -201,6 +201,16 @@ Haven't touched the music side much, but have added some other interesting narra
 
 One note as we're getting closer to launch day: it seems that Echoes may be having issues with it's google storage. None of the api links are working for the sounds I had uploaded earlier. Not the end of the world, I just may need to re-upload all of those.
 
+## 05.01.26
+
+[Jane's Walk 2026 Launch Day!](https://www.mas.org/janes-walk-nyc-2026/)
+
+Small hiccup today when the whole Echoes site went dark, but up and running now and we'll see what the reaction is.[^10]
+
+One quick note about the final mix on these dialogue tracks. Doing a "walk"-through[^11] I felt like the _Breakfast at Tiffanys_ and the _City Spaces, Human Places_ audio was too jarring left untouched (also, as far as CSHP, far too long) so I went in and made them more of a musical element. I cropped it down to certain lines of dialogue, did an isolation pass to get rid of background noise, applied some delay, and added background musical bits. Listening back to the walk after those changes, I think this is way more successful. It contributes to the modular, co-creative aspects of the piece. I still like that the overall arc of the piece is determined by time-spent, but these additional sections are nice. I kept the Four Seasons, and _Birth of a City_ sections as is. Somehow they seemed to fit better. I suppose because the Four Seasons one is just two people talking, and the _Birth of a City's_ old-timey nature. I also changed the logic for all of the dialogue sections so that they don't loop. We don't need to hear these multiple times. The Four Seasons section, in particular, felt weird when it looped. Oh, and since we're getting into the nitty-gritty of this anyway, I should also note that the CSHP audio pauses and resumes when you exit and re-enter, but the BAT section plays all the way through as soon as it gets triggered. Felt right.
+
+Are you ready? [Start walk!](https://youtu.be/v4x_pFHPmEY?si=5AY9cInBNMIvEWpL&t=150)
+
 ## Notes
 
 [^1]: Should eventually move this to its own PB approved WHY document, but for now this feels like a good place to start the WHY juices/conversation flowing)
@@ -220,3 +230,7 @@ One note as we're getting closer to launch day: it seems that Echoes may be havi
 [^8]: It is not working in the Playground tool right now, which is a bummer, but, again, a problem for another day
 
 [^9]: Github doesn't let us use Bandcamp iframe embeds... 🦊
+
+[^10]: If there even is one! It's the curse of these on-demand, location-based projects that I'm not there to actually see people experiencing the thing.
+
+[^11]: How funny that a test for a soundwalk involves no actual walking...
